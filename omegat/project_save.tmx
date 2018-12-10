@@ -1544,6 +1544,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“嘿嘿！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ashley" changedate="20181210T064653Z" creationid="Ashley" creationdate="20181210T064653Z">
+        <seg>"Hehe!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“噗！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T192217Z" creationid="Joey" creationdate="20180917T192217Z">
@@ -7440,8 +7448,8 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       <tuv lang="ZH-CN">
         <seg>小胖子脸上的笑容凝固，面色认真起来，点头道：“行，大哥你说吧，你这人情我要定了。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ashley" changedate="20181210T064132Z" creationid="Ashley" creationdate="20181210T064132Z">
-        <seg>Fatso's smile frozed, face becoming serious,nodded and said, "Sure Big brother, please say, I will surely accept your favour."  </seg>
+      <tuv lang="EN-US" changeid="Ashley" changedate="20181210T064436Z" creationid="Ashley" creationdate="20181210T064132Z">
+        <seg>Fatso's smile froze, face becoming serious,nodded and said, "Sure Big brother, please say, I will surely accept your favor."  </seg>
       </tuv>
     </tu>
     <tu>
@@ -12371,8 +12379,8 @@ As such, the relationship between the two boys could be considered to be pretty 
       <tuv lang="ZH-CN">
         <seg>江逸苦笑起来：“你也不怕亏了？我的人情万一不值钱呢？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ashley" changedate="20181210T064337Z" creationid="Ashley" creationdate="20181210T064337Z">
-        <seg>Jiang Yi bitterly laughed, "Are you not scared of being at a disadvantage? What if my favour is not </seg>
+      <tuv lang="EN-US" changeid="Ashley" changedate="20181210T064608Z" creationid="Ashley" creationdate="20181210T064337Z">
+        <seg>Jiang Yi bitterly laughed, "Are you not scared of being at a disadvantage? What if my favor is not worth anything?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -15541,8 +15549,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>钱万贯的小眼睛内光芒一亮，很快笑眯眯的说道：“大哥，见外了吧？我既然认你做大哥，你的事就是我的事，别说人情不人情的，你说吧，我全力去做就是了。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ashley" changedate="20181210T062656Z" creationid="Ashley" creationdate="20181210T062656Z">
-        <seg>Qian Wanguan's small eyes shined brightly, and in no time, smilingly said, "Big brother, do not treat me as a stranger! Since I take you as my brother, your problems are also my problems. Don't mention about returning favours. Say it, and I will do my best." </seg>
+      <tuv lang="EN-US" changeid="Ashley" changedate="20181210T064426Z" creationid="Ashley" creationdate="20181210T062656Z">
+        <seg>Qian Wanguan's small eyes shined brightly, and in no time, smilingly said, "Big brother, do not treat me as a stranger! Since I take you as my brother, your problems are also my problems. Don't mention about returning favors. Say it, and I will do my best." </seg>
       </tuv>
     </tu>
     <tu>
